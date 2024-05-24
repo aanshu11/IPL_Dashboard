@@ -114,7 +114,7 @@ The IPL Live Score Dashboard provides invaluable insights for creating live scor
 
 Check out a quick demo of the IPL Live Score Dashboard:
 
-[![IPL Live Score Dashboard Demo](https://youtu.be/Kx4joLVA0v8?si=gH3EJX1vxNqK7LNK)
+[![IPL Live Score Dashboard Demo](https://youtu.be/Kx4joLVA0v8?si=gH3EJX1vxNqK7LNK)]
 
 Watch the demo to see how to navigate the dashboard, interact with different visualizations, and utilize its real-time features. Whether you're a cricket enthusiast or a data analyst, this video provides a brief yet comprehensive overview of the dashboard's capabilities.
 
